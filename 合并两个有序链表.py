@@ -1,3 +1,7 @@
+#2019.11.18-1
+#时间：6分钟
+#思路：简单的链表问题
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
